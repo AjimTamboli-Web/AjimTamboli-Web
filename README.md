@@ -25,7 +25,7 @@
 
 ## 🚀 Featured Projects
 
-### 🎓 [Student Grader — Full Stack Web App](https://grader-frontend-final-1zmb0eznt-ajimtamboli-webs-projects.vercel.app/)
+### 🎓 [Student Grader — Full Stack Web App](https://grader-frontend-final.vercel.app/)
 > Online exam & automated grading platform built on microservices architecture
 
 - **Stack:** Java · Spring Boot · React.js · MySQL · JWT · Docker · JUnit 5
