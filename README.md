@@ -25,6 +25,16 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 [https://sentiment-aware-customer-support-chatbot-eykiltcpzp4nuqnhvo8m5.streamlit.app/]
+> Sentiment-Aware Customer Support Chatbot
+
+- **Stack:** Python · TextBlob · Streamlit
+- ✅ Developed an NLP-based chatbot using Python and TextBlob.
+- ✅ Implemented sentiment analysis to generate empathetic responses.
+- ✅ Designed intent recognition for customer support queries.
+- ✅ Built an interactive web interface using Streamlit.
+- ✅ Deployed the application on Streamlit Cloud.
+
 ### 🎓 [Student Grader — Full Stack Web App](https://grader-frontend-final.vercel.app/)
 > Online exam & automated grading platform built on microservices architecture
 
